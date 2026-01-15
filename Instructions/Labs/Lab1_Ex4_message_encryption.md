@@ -318,7 +318,7 @@ Microsoft Purview Message Encryption を使用して財務部門から送信さ�
 
 既定では、新しいメール フロー ルールは無効な状態で作成されます。 このタスクでは、暗号化ルールを有効にして、財務部門からのメッセージの保護を開始できるようにします。
 
-1. **[ルール]** ページで、新しく作成した **[Encrypt messages from Finance department][Disabled] ** を選択します。
+1. **[ルール]** ページで、新しく作成した **[Encrypt messages from Finance department][Disabled]** を選択します。
 
 1. **[Encrypt messages from Finance department]** ポップアップで、**[ルールを有効または無効にする]** の下のトグルを **[有効]** に設定します。
 
