@@ -362,6 +362,6 @@ Microsoft Purview Message Encryption を使用して財務部門から送信さ�
 
 1. パスコードをコピーしてポータルに貼り付け、**[続行]** を選択します。
 
-1. 暗号されたメッセージを確認します。 メールの下部に "**このメールは Contoso Ltd. によって暗号化され、安全に送信されています**" というメッセージが表示されます。
+1. 暗号されたメッセージを確認します。 メールの下部に "**This email has been encrypted and sent securely by Contoso Ltd.**" というメッセージが表示されます。
 
 財務部門からのメッセージが自動的に暗号化されることと Contoso の免責事項が含まれることの検証と、Microsoft Purview Message Encryption が想定どおりに動作していることの確認は、これで完了です。
